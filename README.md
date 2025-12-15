@@ -53,5 +53,6 @@ Average Usage Gap	≈ 17.6%	- Behavioral non-use remains significant \
 - project_summary_case_brief.pdf  
 </details>
 
-**Portfolio Link:** https://joshi-nehaaa.notion.site/Portfolio-Neha-Joshi-2ca1601f482680ec84decf9f70295ce3?source=copy_link
+**Portfolio:** 
+Explore this project and others on my Notion portfolio: https://joshi-nehaaa.notion.site/Portfolio-Neha-Joshi-2ca1601f482680ec84decf9f70295ce3?source=copy_link
 
