@@ -1,15 +1,15 @@
 # Project 01: Malaria ITN Cost-Effectiveness (Nigeria)
-Objective: 
+**Objective:** \
 To evaluate the cost-effectiveness of Insecticide-Treated Net (ITN) distribution in Nigeria by analyzing household ITN ownership, usage among children under 5, and malaria burden across the six geopolitical zones.
 
-Key Findings: 
-Average Cost per DALY Averted ≈ $3098	- Highly cost-effective
-Average Cost per Case Averted	≈ $62 -	Low relative to treatment cost
-Total DALYs Averted ≈ 27,520 - Substantial health impact
-Most Cost-Effective Zone: North West - High usage and low distribution costs
-Average Usage Gap	≈ 17.6%	- Behavioral non-use remains significant
+**Key Findings:** \
+Average Cost per DALY Averted ≈ $3098	- Highly cost-effective \
+Average Cost per Case Averted	≈ $62 -	Low relative to treatment cost \
+Total DALYs Averted ≈ 27,520 - Substantial health impact \
+Most Cost-Effective Zone: North West - High usage and low distribution costs \
+Average Usage Gap	≈ 17.6%	- Behavioral non-use remains significant \
 
-Repo Map: 
+**Repo Map:** 
 <details>
 <summary>📁 analysis/</summary>
 - impacts_model_2021.xlsx  
@@ -54,4 +54,6 @@ Repo Map:
 - plot_itn_usage_by_zone.jpeg
 - project_summary_case_brief.pdf  
 </details>
+
+**Portfolio Link:**
 
